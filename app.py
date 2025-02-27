@@ -3,8 +3,8 @@ import pickle as pkl
 import pandas as pd
 import requests
 
+st.set_page_config(page_title="Your App", layout="wide")
 st.title('Movie Recommender System')
-
 movies_dict = pkl.load(open('./movie_list.pkl', 'rb'))
 similarity = pkl.load(open('similarity.pkl', 'rb'))
 
