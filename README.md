@@ -1,9 +1,12 @@
 # Hybrid Movie Recommendation System
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://ayush-pandey-ml-portfolio.vercel.app)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-teal.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40%2B-red.svg)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.6%2B-orange.svg)](https://scikit-learn.org/)
+
+🌐 **Live Interactive Showcase**: [https://ayush-pandey-ml-portfolio.vercel.app](https://ayush-pandey-ml-portfolio.vercel.app)
 
 A production-ready hybrid recommendation platform combining **Content-Based TF-IDF vectorization and Cosine Similarity** with **Collaborative Filtering via Matrix Factorization (Truncated SVD)**, exposed through a high-performance **FastAPI inference endpoint** and an interactive **Streamlit dashboard**.
 
